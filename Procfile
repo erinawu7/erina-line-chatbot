@@ -1,1 +1,1 @@
-web: python app.py --port $PORT --allow_all
+web: python app.py --port $PORT --allow_all True
